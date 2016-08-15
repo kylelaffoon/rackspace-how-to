@@ -1,7 +1,7 @@
 ---
 permalink: set-up-apache2-web-server-on-two-instances-with-shared-ip/
 audit_date:
-title: Basic Set up Apache2 web server on two instances with shared ip
+title: Set up Apache2 web server on two instances with shared ip
 type: article
 created_date: '2016-08-15'
 created_by: Rackspace Support
